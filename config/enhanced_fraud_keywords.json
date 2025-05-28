@@ -1,0 +1,27 @@
+{
+    "money": [
+        "argent", "cash", "gains", "revenus", "profit", 
+        "salaire élevé", "paie", "rémunération", "forte rémunération",
+        "gagner", "profit", "bénéfice", "richesse"
+    ],
+    "urgent": [
+        "urgent", "immédiat", "dès que possible", "asap",
+        "opportunité limitée", "poste à pourvoir rapidement",
+        "début immédiat", "embauche rapide"
+    ],
+    "payment": [
+        "paiement", "versement", "transfert", "virement",
+        "western union", "moneygram", "paypal", "crypto",
+        "bitcoin", "ethereum", "cryptomonnaie"
+    ],
+    "scam": [
+        "travail à domicile", "revenu passif", "sans expérience",
+        "emploi facile", "argent rapide", "enrichissement",
+        "opportunité unique", "secret", "méthode exclusive"
+    ],
+    "identity": [
+        "pièce d'identité", "copie carte identité", "passeport",
+        "numéro sécurité sociale", "coordonnées bancaires",
+        "RIB", "IBAN", "numéro de carte", "CVV"
+    ]
+}
